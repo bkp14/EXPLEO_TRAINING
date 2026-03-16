@@ -58,8 +58,8 @@ public class Account_Management {
 	}
 	public static void  main(String[] args) {
 		Scanner s=new Scanner(System.in);
-		Account_Management a=new Account_Management("M11","Muhindhar");
-		Account_Management a2=new Account_Management("M22","Muthu");
+		Account_Management a=new Account_Management("M11","kp");
+		Account_Management a2=new Account_Management("M22","ram");
 		System.out.println("The credited amount : "+a.credit(5000));
 		a.debit(2000);
 		a.transfer(a2, 2000);
