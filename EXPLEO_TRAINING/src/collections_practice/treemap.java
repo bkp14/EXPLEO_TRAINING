@@ -10,7 +10,7 @@ public class treemap {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		 TreeMap<String,Double> tm = new TreeMap<>();
-		  System.out.println("size of hashmap before insertion: "+tm.size());
+		  System.out.println("size of hashmap before insertion: "+tm.size()); 
 			tm.put("tamil1", 20.9);
 			tm.put("tamil3", 21.9);
 			tm.put("tamil3", 22.9);

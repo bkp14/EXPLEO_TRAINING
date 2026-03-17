@@ -14,5 +14,6 @@
 	<classpathentry kind="src" path="Handson_4"/>
 	<classpathentry kind="src" path="Handson_3"/>
 	<classpathentry kind="src" path="Handson_2"/>
+	<classpathentry kind="src" path="HandsOn_10"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
