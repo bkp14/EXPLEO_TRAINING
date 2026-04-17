@@ -3,15 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="automation_with_testNg.NewTest">
+      <class name="automation_with_testNg.soft_assertion_demo">
         <methods>
-          <include name="invalidtest"/>
-          <include name="logincheck"/>
+          <include name="beforeMethod"/>
+          <include name="loginCheck"/>
           <include name="afterTest"/>
-          <include name="invalidtest1"/>
-          <include name="setup"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
         </methods>
-      </class> <!-- automation_with_testNg.NewTest -->
+      </class> <!-- automation_with_testNg.soft_assertion_demo -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

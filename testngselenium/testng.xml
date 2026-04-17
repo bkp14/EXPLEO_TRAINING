@@ -9,7 +9,9 @@
                 </run>
                 </groups>
     <classes>
-      <class name="automation_with_testNg.NewTest"/>
+      
+            <class name="automation_with_testNg.assertion"/>
+
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
