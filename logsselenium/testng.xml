@@ -10,7 +10,7 @@
                 </groups>
     <classes>
       
-            <class name="automation_with_testNg.assertion"/>
+            <class name="logcreation.testlogcreation"/>
 
     </classes>
   </test> <!-- Test -->
