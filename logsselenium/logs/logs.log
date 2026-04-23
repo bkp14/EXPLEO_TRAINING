@@ -93,3 +93,131 @@ Session ID: f1822cd142b0c38a0bbdcaa5a0d4b941
 [INFO ] 2026-04-22 12:09:04.704 [main] testlogcreation - Verifying login success
 [INFO ] 2026-04-22 12:09:06.588 [main] testlogcreation - Login successful
 [INFO ] 2026-04-22 12:09:06.596 [main] testlogcreation - Closing browser
+[INFO ] 2026-04-22 14:23:07.946 [main] testlogcreation - Launching browser
+[DEBUG] 2026-04-22 14:23:12.779 [main] testlogcreation - Maximizing window
+[DEBUG] 2026-04-22 14:23:12.853 [main] testlogcreation - Setting implicit wait
+[INFO ] 2026-04-22 14:23:12.857 [main] testlogcreation - Opening application URL
+[INFO ] 2026-04-22 14:23:18.276 [main] testlogcreation - Starting login test
+[DEBUG] 2026-04-22 14:23:18.276 [main] testlogcreation - Clicking login button
+[DEBUG] 2026-04-22 14:23:18.369 [main] testlogcreation - Entering username
+[DEBUG] 2026-04-22 14:23:18.572 [main] testlogcreation - Entering password
+[DEBUG] 2026-04-22 14:23:18.628 [main] testlogcreation - Clicking login submit button
+[INFO ] 2026-04-22 14:23:18.706 [main] testlogcreation - Verifying login success
+[INFO ] 2026-04-22 14:23:21.107 [main] testlogcreation - Login successful
+[INFO ] 2026-04-22 14:23:21.111 [main] testlogcreation - Closing browser
+[INFO ] 2026-04-22 14:27:24.251 [main] testlogcreation - Launching browser
+[DEBUG] 2026-04-22 14:27:26.504 [main] testlogcreation - Maximizing window
+[DEBUG] 2026-04-22 14:27:26.560 [main] testlogcreation - Setting implicit wait
+[INFO ] 2026-04-22 14:27:26.567 [main] testlogcreation - Opening application URL
+[INFO ] 2026-04-22 14:27:28.761 [main] testlogcreation - Starting login test
+[DEBUG] 2026-04-22 14:27:28.762 [main] testlogcreation - Clicking login button
+[DEBUG] 2026-04-22 14:27:28.860 [main] testlogcreation - Entering username
+[DEBUG] 2026-04-22 14:27:29.065 [main] testlogcreation - Entering password
+[DEBUG] 2026-04-22 14:27:29.166 [main] testlogcreation - Clicking login submit button
+[INFO ] 2026-04-22 14:27:29.237 [main] testlogcreation - Verifying login success
+[INFO ] 2026-04-22 14:27:31.836 [main] testlogcreation - Login successful
+[INFO ] 2026-04-22 14:27:31.840 [main] testlogcreation - Closing browser
+[INFO ] 2026-04-22 14:30:02.329 [main] testlogcreation - Launching browser
+[DEBUG] 2026-04-22 14:30:04.228 [main] testlogcreation - Maximizing window
+[DEBUG] 2026-04-22 14:30:04.287 [main] testlogcreation - Setting implicit wait
+[INFO ] 2026-04-22 14:30:04.293 [main] testlogcreation - Opening application URL
+[INFO ] 2026-04-22 14:30:06.241 [main] testlogcreation - Starting login test
+[DEBUG] 2026-04-22 14:30:06.242 [main] testlogcreation - Clicking login button
+[DEBUG] 2026-04-22 14:30:06.373 [main] testlogcreation - Entering username
+[DEBUG] 2026-04-22 14:30:06.608 [main] testlogcreation - Entering password
+[DEBUG] 2026-04-22 14:30:06.670 [main] testlogcreation - Clicking login submit button
+[INFO ] 2026-04-22 14:30:06.738 [main] testlogcreation - Verifying login success
+[INFO ] 2026-04-22 14:30:09.815 [main] testlogcreation - Login successful
+[INFO ] 2026-04-22 14:30:09.820 [main] testlogcreation - Closing browser
+[INFO ] 2026-04-22 14:30:37.108 [main] testlogcreation - Launching browser
+[DEBUG] 2026-04-22 14:30:39.176 [main] testlogcreation - Maximizing window
+[DEBUG] 2026-04-22 14:30:39.242 [main] testlogcreation - Setting implicit wait
+[INFO ] 2026-04-22 14:30:39.247 [main] testlogcreation - Opening application URL
+[INFO ] 2026-04-22 14:30:46.883 [main] testlogcreation - Starting login test
+[DEBUG] 2026-04-22 14:30:46.884 [main] testlogcreation - Clicking login button
+[DEBUG] 2026-04-22 14:30:46.987 [main] testlogcreation - Entering username
+[DEBUG] 2026-04-22 14:30:47.185 [main] testlogcreation - Entering password
+[DEBUG] 2026-04-22 14:30:47.249 [main] testlogcreation - Clicking login submit button
+[INFO ] 2026-04-22 14:30:47.330 [main] testlogcreation - Verifying login success
+[INFO ] 2026-04-22 14:30:49.710 [main] testlogcreation - Login successful
+[INFO ] 2026-04-22 14:30:49.717 [main] testlogcreation - Closing browser
+[INFO ] 2026-04-22 14:33:57.746 [main] testlogcreation - Launching browser
+[DEBUG] 2026-04-22 14:33:59.999 [main] testlogcreation - Maximizing window
+[DEBUG] 2026-04-22 14:34:00.074 [main] testlogcreation - Setting implicit wait
+[INFO ] 2026-04-22 14:34:00.080 [main] testlogcreation - Opening application URL
+[INFO ] 2026-04-22 14:34:02.808 [main] testlogcreation - Starting login test
+[DEBUG] 2026-04-22 14:34:02.808 [main] testlogcreation - Clicking login button
+[DEBUG] 2026-04-22 14:34:02.909 [main] testlogcreation - Entering username
+[ERROR] 2026-04-22 14:34:22.939 [main] testlogcreation - Test failed due to exception
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"input#loginusernme"}
+  (Session info: chrome=147.0.7727.102)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.43.0', revision: 'dd0f534'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [652ed79eb5c1ccf4f5f0b7b7ac85a995, findElement {value=input#loginusernme, using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 147.0.7727.102, chrome: {chromedriverVersion: 147.0.7727.57 (b4f28b5637d0..., userDataDir: C:\Users\KRISHN~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49879}, goog:processID: 9556, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49879/devtoo..., se:cdpVersion: 147.0.7727.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 652ed79eb5c1ccf4f5f0b7b7ac85a995
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:169)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:142)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:223)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:606)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:166)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:429)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:423)
+	at logcreation.testlogcreation.validlogincheck(testlogcreation.java:46)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:697)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:1005)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+[INFO ] 2026-04-22 14:34:22.952 [main] testlogcreation - Closing browser
+[INFO ] 2026-04-22 14:35:27.662 [main] testlogcreation - Launching browser
+[DEBUG] 2026-04-22 14:35:29.543 [main] testlogcreation - Maximizing window
+[DEBUG] 2026-04-22 14:35:29.616 [main] testlogcreation - Setting implicit wait
+[INFO ] 2026-04-22 14:35:29.620 [main] testlogcreation - Opening application URL
+[INFO ] 2026-04-22 14:35:31.713 [main] testlogcreation - Starting login test
+[DEBUG] 2026-04-22 14:35:31.713 [main] testlogcreation - Clicking login button
+[DEBUG] 2026-04-22 14:35:31.813 [main] testlogcreation - Entering username
+[DEBUG] 2026-04-22 14:35:32.020 [main] testlogcreation - Entering password
+[DEBUG] 2026-04-22 14:35:32.077 [main] testlogcreation - Clicking login submit button
+[INFO ] 2026-04-22 14:35:32.148 [main] testlogcreation - Verifying login success
+[INFO ] 2026-04-22 14:35:35.122 [main] testlogcreation - Login successful
+[INFO ] 2026-04-22 14:35:35.128 [main] testlogcreation - Closing browser
+[INFO ] 2026-04-22 14:35:48.223 [main] testlogcreation - Launching browser
+[DEBUG] 2026-04-22 14:35:50.079 [main] testlogcreation - Maximizing window
+[DEBUG] 2026-04-22 14:35:50.138 [main] testlogcreation - Setting implicit wait
+[INFO ] 2026-04-22 14:35:50.144 [main] testlogcreation - Opening application URL
+[INFO ] 2026-04-22 14:35:53.141 [main] testlogcreation - Starting login test
+[DEBUG] 2026-04-22 14:35:53.141 [main] testlogcreation - Clicking login button
+[DEBUG] 2026-04-22 14:35:53.231 [main] testlogcreation - Entering username
+[DEBUG] 2026-04-22 14:35:53.452 [main] testlogcreation - Entering password
+[DEBUG] 2026-04-22 14:35:53.508 [main] testlogcreation - Clicking login submit button
+[INFO ] 2026-04-22 14:35:53.578 [main] testlogcreation - Verifying login success
+[INFO ] 2026-04-22 14:35:56.229 [main] testlogcreation - Login successful
+[INFO ] 2026-04-22 14:35:56.234 [main] testlogcreation - Closing browser
