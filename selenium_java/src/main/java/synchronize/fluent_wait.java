@@ -1,5 +1,5 @@
 package synchronize;
-
+//fluent wait
 import java.time.Duration;
 
 import org.openqa.selenium.ElementNotInteractableException;
@@ -23,8 +23,10 @@ driver.manage().window().maximize();
 
 			    wait.until(
 			        d -> {
-			          revealed.sendKeys("Displayed");
-			          return true;
+			          // Your condition goes here
+			          // For example, you can check for the presence of an element
+			          // return d.findElement(By.id("yourElementId")).isDisplayed();
+			          return true; // Replace with your actual condition
 			        });
 	}
 
