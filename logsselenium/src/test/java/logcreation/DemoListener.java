@@ -29,7 +29,13 @@ public class DemoListener implements ITestListener {
         Object currentClass = result.getInstance();
         WebDriver driver = ((BaseTest) currentClass).d;
 
-        takeScreenshot(driver, result.getName());
+        if (driver != null) {
+            try {
+                takeScreenshot(driver, result.getName());
+            } catch (Exception e) {
+                System.out.println("Screenshot failed: " + e.getMessage());
+            }
+        }
     }
 
     @Override
@@ -41,15 +47,19 @@ public class DemoListener implements ITestListener {
         try {
             File src = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 
-            String path = System.getProperty("user.dir") + "/screenshots/"
-                    + testName + "_" + System.currentTimeMillis() + ".png";
+            String folderPath = System.getProperty("user.dir") + "/test-output/screenshots/";
 
-            File dest = new File(path);
-            dest.getParentFile().mkdirs(); // create folder if not exists
+            File folder = new File(folderPath);
+            if (!folder.exists()) {
+                folder.mkdirs();
+            }
 
+            String filePath = folderPath + testName + "_" + System.currentTimeMillis() + ".png";
+
+            File dest = new File(filePath);
             FileUtils.copyFile(src, dest);
 
-            System.out.println("Screenshot saved: " + path);
+            System.out.println("Screenshot saved: " + filePath);
 
         } catch (IOException e) {
             e.printStackTrace();

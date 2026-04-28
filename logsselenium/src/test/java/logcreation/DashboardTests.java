@@ -14,7 +14,7 @@ public class DashboardTests extends BaseTest {
         d.findElement(By.xpath("//span[@class='caret']")).click();
         d.findElement(By.linkText("Login")).click();
 
-        d.findElement(By.name("email")).sendKeys("tamilkumar@gmail.com");
+        d.findElement(By.name("email")).sendKeys("krishna@gmail.com");
         d.findElement(By.name("password")).sendKeys("Kiot1234");
         d.findElement(By.xpath("//input[@value='Login']")).click();
 

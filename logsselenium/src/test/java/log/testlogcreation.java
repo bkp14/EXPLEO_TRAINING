@@ -1,4 +1,4 @@
-package logcreation;
+package log;
 
 import java.time.Duration;
 
