@@ -18,7 +18,7 @@ public class DashboardTest extends BaseTest {
 		objlogin.login("Admin","admin123" );
 		Dashboard objdashboard = new Dashboard(driver);
 		String actual = objdashboard.getHomePageText();
-		String expect = "Dashboard";
+		String expect = "Dashboar";
 		log.info("asserted actual value and expected value");
 		Assert.assertEquals(actual, expect);
 
