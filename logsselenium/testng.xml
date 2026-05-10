@@ -1,0 +1,18 @@
+<suite name="Suite">
+
+    <listeners>
+        <listener class-name="logcreation.DemoListener"/>
+    </listeners>
+
+    <test name="Test">
+
+        <parameter name="InvalidKeyword" value="phone"/>
+        <parameter name="ValidKeyword" value="iphone"/>
+
+        <packages>
+            <package name="logcreation"/>
+        </packages>
+
+    </test>
+
+</suite>
