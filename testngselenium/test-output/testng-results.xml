@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-04-17T16:23:34 IST" name="Default suite" finished-at="2026-04-17T16:23:48 IST" duration-ms="14242">
+    <groups>
+    </groups>
+    <test started-at="2026-04-17T16:23:34 IST" name="Default test" finished-at="2026-04-17T16:23:48 IST" duration-ms="14242">
+      <class name="automation_with_testNg.soft_assertion_demo">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:automation_with_testNg.soft_assertion_demo@367ffa75]" started-at="2026-04-17T16:23:34 IST" name="beforeTest" finished-at="2026-04-17T16:23:34 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:automation_with_testNg.soft_assertion_demo@367ffa75]" started-at="2026-04-17T16:23:34 IST" name="beforeMethod" finished-at="2026-04-17T16:23:37 IST" duration-ms="2718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginCheck()[pri:0, instance:automation_with_testNg.soft_assertion_demo@367ffa75]" started-at="2026-04-17T16:23:37 IST" name="loginCheck" finished-at="2026-04-17T16:23:39 IST" duration-ms="2178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCheck -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:automation_with_testNg.soft_assertion_demo@367ffa75]" started-at="2026-04-17T16:23:39 IST" name="afterMethod" finished-at="2026-04-17T16:23:39 IST" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:automation_with_testNg.soft_assertion_demo@367ffa75]" started-at="2026-04-17T16:23:39 IST" name="beforeMethod" finished-at="2026-04-17T16:23:42 IST" duration-ms="2232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginCheckInValPass()[pri:0, instance:automation_with_testNg.soft_assertion_demo@367ffa75]" started-at="2026-04-17T16:23:42 IST" name="loginCheckInValPass" finished-at="2026-04-17T16:23:43 IST" duration-ms="1474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCheckInValPass -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:automation_with_testNg.soft_assertion_demo@367ffa75]" started-at="2026-04-17T16:23:43 IST" name="afterMethod" finished-at="2026-04-17T16:23:43 IST" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:automation_with_testNg.soft_assertion_demo@367ffa75]" started-at="2026-04-17T16:23:43 IST" name="beforeMethod" finished-at="2026-04-17T16:23:47 IST" duration-ms="3416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginCheckInValUserName()[pri:0, instance:automation_with_testNg.soft_assertion_demo@367ffa75]" started-at="2026-04-17T16:23:47 IST" name="loginCheckInValUserName" finished-at="2026-04-17T16:23:48 IST" duration-ms="1445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCheckInValUserName -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:automation_with_testNg.soft_assertion_demo@367ffa75]" started-at="2026-04-17T16:23:48 IST" name="afterMethod" finished-at="2026-04-17T16:23:48 IST" duration-ms="227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:automation_with_testNg.soft_assertion_demo@367ffa75]" started-at="2026-04-17T16:23:48 IST" name="afterTest" finished-at="2026-04-17T16:23:48 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- automation_with_testNg.soft_assertion_demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
